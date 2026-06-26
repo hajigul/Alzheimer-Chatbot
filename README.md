@@ -40,6 +40,10 @@ The chatbot answering a question, with the medical disclaimer appended to each r
 ![Chatbot example conversation](screenshot_1.png)
 
 
+![Chatbot starter screen](2.%20Window_2nd.png)
+
+![Chatbot example conversation](1.%20Window_1st.png)
+
 
 ## Project Structure
 

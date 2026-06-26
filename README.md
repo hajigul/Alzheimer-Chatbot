@@ -26,6 +26,21 @@ Streamlit chat interface.
 
 ---
 
+
+## Screenshots
+
+### Starter screen
+The chatbot opens with a clear disclaimer banner and suggested starter questions.
+
+![Chatbot starter screen](screenshot_2.png)
+
+### Example conversation
+The chatbot answering a question, with the medical disclaimer appended to each response.
+
+![Chatbot example conversation](screenshot_1.png)
+
+
+
 ## Project Structure
 
 ```
